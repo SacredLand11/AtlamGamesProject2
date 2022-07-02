@@ -1,0 +1,17 @@
+Merhaba. Bu kısmı Türkçe yazıyorum.
+
+Oyunu unityRemote üzerinden denedim. Ekran görüntü özelliklerini,
+iphone 8 ve iphoneX'e göre düzenledim. unityRemote'u kullandığınızda resolution
+ayarı olarak iphone X/XS 2436x1125 Portrait seçmeniz yeterli olacaktır.
+
+Oyunun hiç açılmama veya oynanamama gibi herhangi bir aksilik olursa lütfen
+benimle iletişimde olun, çünkü bu işi çok istiyorum ve oyunu gerçekten kendi
+telefonumda denedim ve oynayabildim. En azından oyun oynanamıyor, açılmıyor gibi
+durumlardan elenmek istemiyorum.
+
+mailim: aydin.meric.metu@gmail.com
+discord: SacredLand#2068
+
+Saygılarımla,
+
+Meriç Aydın
